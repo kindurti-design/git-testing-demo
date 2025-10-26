@@ -1,0 +1,4 @@
+ - name hello
+yum : install
+      print :msg 
+
